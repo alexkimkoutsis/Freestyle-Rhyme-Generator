@@ -15,12 +15,9 @@ their rhyming vocabulary and encourage use of words that they normally wouldn't 
 
 * This program begins by asking how many rhymes the user would like to receive
 per input word. 
- 
 * Then, the user may input any standard English word and the program will return words that rhyme with it. If in the first step, the user specified that they wanted
 x rhymes per input word, then x rhymes would be printed.
-
 * The program will then prompt the user for an input word again.
-
 * The program will keep prompting the user for input words until they input "!",
 at which point the program will terminate.
 
@@ -30,3 +27,12 @@ and there can be no spaces in the input word.
 # Built With
 * [Datamuse API](https://www.datamuse.com/api/) - For rhyme generation.
 * [org.json Maven Repository](https://mvnrepository.com/artifact/org.json/json) - To assist in parsing JSON data.
+
+# Future Plans
+I have a lot of ideas for this project that I am working on / would like to work on in the future.
+* Create a visual interface / front end.
+* Link with a random word generator to supply input words. This would allow people to push themselves
+further outside their comfort zones while freestyling.
+* Integrate voice recognition to determine the last word in someone's sentence and automatically produce
+words that rhyme with it.
+* Host program on a website or develop it into an iPhone app.
