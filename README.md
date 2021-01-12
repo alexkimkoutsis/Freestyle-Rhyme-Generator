@@ -34,7 +34,8 @@ x rhymes per input word, then x rhymes would be printed.
 at which point the program will terminate.
 
 Note that if the user inputs any non-standard English words, no rhymes will be generated,
-and there can be no spaces in the input word.
+and there can be no spaces in the input word. If an illegal word is entered, the program
+will let you know and prompt you again.
 
 # Built With
 * [Datamuse API](https://www.datamuse.com/api/) - For rhyme generation.
