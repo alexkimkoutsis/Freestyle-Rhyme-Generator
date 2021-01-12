@@ -9,7 +9,7 @@ their rhyming vocabulary and encourage use of words that they normally wouldn't 
 
 # Demo
 
-![Rhyme Generator Demo](img/rhyme generator demo.gif)
+![Rhyme Generator Demo](demo.gif)
 
 # How to Use
 
