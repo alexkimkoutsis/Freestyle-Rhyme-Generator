@@ -7,6 +7,18 @@ without having to worry about coming up with rhymes at the same time.
 It can also be used by more experienced freestyle rappers to simply expand
 their rhyming vocabulary and encourage use of words that they normally wouldn't use.
 
+# Inspiration
+
+Freestyle rapping is a hobby of mine. I freestyle with my friends all the time and I'm
+the Vice President of the Freestyle Rap Club at UMD.
+
+However, freestyling can be pretty nerve-wracking, especially for beginners.
+It's scary trying to freestyle for the first time - trying to think of sentences
+that rhyme with each other and make sense, all while your friends are watching you. A lot of people
+never even attempt getting into the hobby because it puts them way out of their comfort zone.
+
+I designed this program to help ease the anxiety that often comes with hopping on the mic.
+
 # Demo
 
 ![Rhyme Generator Demo](demo/demo.gif)
