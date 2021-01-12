@@ -1,4 +1,4 @@
-# Freestyle Rhyme Project
+# Freestyle Rhyme Generator Project
 
 This program is designed to function as a rhyme generator.
 It was created to aid in freestyle rapping practice, so that users
